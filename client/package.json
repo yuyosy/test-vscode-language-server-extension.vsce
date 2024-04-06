@@ -1,0 +1,15 @@
+{
+  "name": "test-vscode-lsp-client",
+  "description": "client",
+  "author": "yuyosy",
+  "version": "0.1.0",
+  "license": "MIT",
+  "publisher": "yuyosy",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "dependencies": {
+    "@types/vscode": "^1.88.0",
+    "vscode-languageclient": "^9.0.1"
+  }
+}
